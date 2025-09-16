@@ -1,0 +1,48 @@
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE settings
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.props
+*.nuget.targets
+packages/
+**/packages/*
+
+# Rider IDE
+.idea/
+
+# Test results
+TestResult*/
+*.coverage
+*.coveragexml
+*.testresults
+*.trx
+
+# Others
+*.tmp
+*.temp
+*.bak
+*.swp
